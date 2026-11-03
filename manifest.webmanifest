@@ -1,0 +1,9 @@
+{
+  "name": "CC Mission Order Verify",
+  "short_name": "CC Verify",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1420",
+  "theme_color": "#0a1420"
+}
